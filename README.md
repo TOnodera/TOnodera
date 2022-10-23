@@ -10,7 +10,9 @@ rustとawsです。awsは最近実務で触らせてもらっていて、手動�
 ・全国の定点カメラを見れるサイト作ってみました。（非github管理）  
 https://live-cameras.site/  
 VPSで自動デプロイ試したかったのでサーバーサイドのgitフックを利用していてpushするとdockerビルド->デプロイと処理が走ります。  
-いわれるがままにつくったプロフィール
+
+
+😇いわれるがままにつくったプロフィール😇
 
 <!---
 TOnodera/TOnodera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
