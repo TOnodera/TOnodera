@@ -10,6 +10,9 @@ rustとawsです。awsは最近実務で触らせてもらっていて、手動�
 ・全国の定点カメラを見れるサイト作ってみました。（非github管理）  
 https://live-cameras.site/  
 VPSで自動デプロイ試したかったのでサーバーサイドのgitフックを利用していてpushするとdockerビルド->デプロイと処理が走ります。  
+・影武者アプリ  
+https://github.com/TOnodera/kagemusha  
+↑ちょっとお茶買いに行ったときにTeamsが退席中にならないようにしてくれます。
 
 
 😇いわれるがままにつくったプロフィール😇
