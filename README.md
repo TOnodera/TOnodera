@@ -6,13 +6,6 @@ SESで働いてます。webプログラマです。php書いてます。
 - 🌱 I’m currently learning ...  
 rustとawsです。awsは最近実務で触らせてもらっていて、手動で各サーバーにデプロイしている部分の自動デプロイ化を進めています。
 あとはテストがないので自動テストの導入を進めていますが自分もわからないことが多いので調べながら少しずつ組み込んでいってます。そちらはLaravelでの実装です。  
-- 💞️ Latest work ...  
-・影武者アプリ  
-https://github.com/TOnodera/kagemusha  
-↑ちょっとお茶買いに行ったときにTeamsが退席中にならないようにしてくれます。
-
-
-😇いわれるがままにつくったプロフィール😇
 
 <!---
 TOnodera/TOnodera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
